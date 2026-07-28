@@ -39,6 +39,3 @@ As my first Frontend Mentor submission, this project helped me:
 **Tobisimi**  
 GitHub: [@Tobisimi](https://github.com/Tobisimi)
 
----
-
-> This project is part of my frontend learning journey. More improvements and new challenge solutions coming soon.
